@@ -11,7 +11,7 @@
   <h1>Systems Integration Developer — Programming Test</h1>
   <h1>Part 1</h1>
   <h2>Part 1A:</h2>
-  <pre data-src="assets/solutionPartOneA.py"></pre>
+  <pre class="line-numbers"  data-src="assets/solutionPartOneA.py"></pre>
 
 
   <h3>PROBLEMS WITH THE ABOVE SCRIPT:</h3>
@@ -32,17 +32,17 @@
     Fixing the script requires not only addressing the three above concerns, but addressing them in the correct way, as they conceal subtleties that would be flaws in the code in their own right, but in this case are contained within broader flaws. First, a manner of recording words in a uniform, case agnostic manner is necessary. This will allow for the same word to be counted, no matter what case its characters are in. Also, the lines read from the file will need to be converted in this uniform manner before comparison can take place, otherwise matching words of different cases can not be detected, and a new word is erroneously added to the WORDS_LIST. Having a universal representation of each word, such as all lowercase or all uppercase, will allow the 'sorted()' function to accurately put the words into alphabetical order for their enumeration and display. Secondly, for the threshold comparison at line 32, we need to fix the index of the left hand side from 'word[0]' to 'word[1]' in order to access the frequency instead of the word itself. Also, we must convert the string 'threshold' in this comparison into an integer, either at the line 32 itself or earlier in the script. This will ensure that threshold is recognized and obeyed.
   </p>
   <h2>Part 1B:</h2>
-  <pre data-src="assets/solutionPartOne.py"></pre>
+  <pre class="line-numbers"  data-src="assets/solutionPartOne.py"></pre>
   <h1>Part 2</h1>
   <h2>Code</h2>
-  <pre data-src="assets/solutionPartTwo.py"></pre>
+  <pre class="line-numbers" data-src="assets/solutionPartTwo.py"></pre>
   <h2>Output</h2>
   <pre data-src="assets/solutionPartTwoOutput.txt"></pre>
 
   <h1>Part 3</h1>
   <h2>Code</h2>
 
-  <pre data-src="assets/solutionPartThree.py"></pre>
+  <pre class="line-numbers"   data-src="assets/solutionPartThree.py"></pre>
   <h2>Output</h2>
   <pre data-src="assets/solutionPartThreeOutput.txt"></pre>
 
