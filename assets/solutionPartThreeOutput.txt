@@ -1,0 +1,70 @@
+Error from slot1@e028.chtc.wisc.edu: VMGAHP_ERR_INTERNAL
+- Occured 1 times from 07:14:57 to 07:14:57
+- Affected 1 unique jobs
+
+
+FAILED TO SEND INITIAL KEEP ALIVE TO OUR PARENT <128.105.244.224:9618?sock=3202_995c_3>
+- Occured 111 times from 04:29:49 to 04:29:59
+- Affected 39 unique jobs
+
+
+Error from slot1@glow-c124.cs.wisc.edu: VMGAHP_ERR_INTERNAL
+- Occured 11 times from 04:51:25 to 05:30:09
+- Affected 10 unique jobs
+
+
+Error from slot1@c162.chtc.wisc.edu: VMGAHP_ERR_INTERNAL
+- Occured 46 times from 04:31:45 to 05:28:18
+- Affected 39 unique jobs
+
+
+Error from slot1@c149.chtc.wisc.edu: VMGAHP_ERR_INTERNAL
+- Occured 37 times from 04:40:16 to 05:23:21
+- Affected 34 unique jobs
+
+
+Error from slot1@e003.chtc.wisc.edu: VMGAHP_ERR_INTERNAL
+- Occured 43 times from 04:31:35 to 05:22:59
+- Affected 37 unique jobs
+
+
+Error from slot1@glow-c022.cs.wisc.edu: VMGAHP_ERR_INTERNAL
+- Occured 1 times from 07:15:09 to 07:15:09
+- Affected 1 unique jobs
+
+
+Error from slot1@c159.chtc.wisc.edu: Failed to create a new VM
+- Occured 1 times from 04:32:07 to 04:32:07
+- Affected 1 unique jobs
+
+
+Assertion ERROR on (result)
+- Occured 6 times from 07:12:50 to 07:16:14
+- Affected 6 unique jobs
+
+
+Error from slot1@e087.chtc.wisc.edu: VMGAHP_ERR_INTERNAL
+- Occured 15 times from 05:06:59 to 07:21:38
+- Affected 15 unique jobs
+
+
+Error from slot1@e042.chtc.wisc.edu: VMGAHP_ERR_INTERNAL
+- Occured 15 times from 04:51:50 to 05:23:18
+- Affected 14 unique jobs
+
+
+Error from slot1@c157.chtc.wisc.edu: VMGAHP_ERR_INTERNAL
+- Occured 10 times from 05:12:09 to 05:23:17
+- Affected 9 unique jobs
+
+
+Error from slot1@glow-c099.cs.wisc.edu: VMGAHP_ERR_INTERNAL
+- Occured 13 times from 04:32:45 to 05:23:23
+- Affected 13 unique jobs
+
+
+Error from slot1@glow-c118.cs.wisc.edu: VMGAHP_ERR_INTERNAL
+- Occured 11 times from 05:04:58 to 05:31:35
+- Affected 11 unique jobs
+
+
